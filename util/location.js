@@ -2,7 +2,7 @@ const axios = require('axios');
 
 const HttpError = require('../models/http-error');
 
-const API_KEY = 'AIzaSyA9HA1Aj3Dqog4SxmQhlhvTeqlljUwXbRo';
+const API_KEY = 'INPUT API KEY HERE';
 
 async function getCoordsForAddress(address) {
   // return {
